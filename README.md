@@ -6,13 +6,13 @@
 
 ### Team : Ping-pong
 
-Leader : 조민수 (충북대학교 3학년 소프트웨어학과 재학)
+Leader : 조민수
 
-TeamMate : 민웅규 (충북대학교 3학년 소프트웨어학과 재학)
+TeamMate : 민웅규
 
-TeamMate : 김광모 (충북대학교 3학년 소프트웨어학과 재학)
+TeamMate : 김광모
 
-TeamMate : 서종원 (충북대학교 3학년 소프트웨어학과 재학)
+TeamMate : 서종원
 
 <hr/>
 
